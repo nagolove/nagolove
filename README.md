@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on [Genetic game](https://github.com/nagolove/automato) which is in written in [Lua](https://www.lua.org/)([Love2D](https://love2d.org/)) and [Teal](https://github.com/teal-language/tl).
+Other my projects:
+  * [Nback](https://github.com/nagolove/nback2) - mobile game for traing memory and fluid intelligence
+
+Online coding **[stream](https://www.twitch.tv/dvkarandeev)** on twich
