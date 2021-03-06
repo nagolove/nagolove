@@ -19,4 +19,4 @@ I'm currently working on [Genetic game](https://github.com/nagolove/automato) wh
 My other projects:
   * [Nback](https://github.com/nagolove/nback2) - mobile game for training memory and fluid intelligence
 
-Online coding **[stream](https://www.twitch.tv/dvkarandeev)** on twitch
+Online coding **[stream](https://www.twitch.tv/228hooligan)** on twitch
