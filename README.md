@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+This information is unstructured. May be later I will rewrite it.
+
 I'm currently working on some projects:
   * [Genetic game](https://github.com/nagolove/automato)
   * [Nback](https://github.com/nagolove/nback2) - mobile game for training memory and fluid intelligence
