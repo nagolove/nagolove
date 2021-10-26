@@ -25,6 +25,6 @@ I'm currently working on some projects:
  All stuff written in [Lua](https://www.lua.org/) and base on ([Love2D](https://love2d.org/)) framework. 
  Also I use a typed Lua dialect called [Teal](https://github.com/teal-language/tl). It is just fun transpiler for type annotation of source code for such dynamic language as Lua is.
 
-C++ is like a shit. Rust is crab power!
+C++ is like a shit. Rust is a crab power!
 
 Online coding **[stream](https://www.twitch.tv/228hooligan)** on twitch
