@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This information is unstructured. May be later I will rewrite it.
 
 I'm currently working on some projects(in priority order):
-  * T-80 - 2d topdown action. Pure C with [RayLib](https://github.com/raysan5/raylib), built-in Lua engine.
+  * T-80 - 2d topdown action. Written pure C with [RayLib](https://github.com/raysan5/raylib) help, built-in Lua engine.
   * [Genetic game](https://github.com/nagolove/automato)
   * [Nback](https://github.com/nagolove/nback2) - mobile game for training memory and fluid intelligence  
  
