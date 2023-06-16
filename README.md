@@ -22,6 +22,8 @@ I'm currently working on some projects(in priority order):
   * [Genetic game](https://github.com/nagolove/automato) - genetic algorithm game prototype
   * [Nback](https://github.com/nagolove/nback2) - mobile game for training memory and fluid intelligence  
   * [2048+](https://nagolove.github.io/2048) classic 2048 game plus some additions
+  * [puzzle](https://nagolove.github.io/pzl) classic 15 puzzle game
+ 
  
  ⚡ Some stuff written in [Lua](https://www.lua.org/) and based on ([Love2D](https://love2d.org/)) framework. 
  Also I use a typed Lua dialect called [Teal](https://github.com/teal-language/tl). It is just fun transpiler for type annotation of source code for such dynamic language as Lua is.
